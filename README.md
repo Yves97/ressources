@@ -66,6 +66,8 @@
 
 * Template Monster <https://www.templatemonster.com/>
 
+* UIcookie <https://uicookies.com/>
+
 
 > ### Free Color Palettes, Fonts & Icons
 
