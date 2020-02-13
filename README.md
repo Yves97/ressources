@@ -1,14 +1,14 @@
-# Ressources Javasript FrontEnd
+# Ressources FrontEnd
 
-> ## Javascript plugins , library & Css skills
+> ### Javascript Plugins , Library & Css Skills
 
-* moving-letter: <https://tobiasahlin.com/moving-letters/>
+* Moving-letter: <https://tobiasahlin.com/moving-letters/>
 
-* open-sources for javascript library,framework & plugins : <https://www.javascripting.com/>
+* Open-sources websites for javascript library, framework & plugins : <https://www.javascripting.com/>
 
-* animation for loaoders : <https://loading.io/> , <https://icons8.com/preloaders/>
+* Animation for loaoders : <https://loading.io/> , <https://icons8.com/preloaders/>
 
-* owl carousel 2 : <https://owlcarousel2.github.io/OwlCarousel2/>
+* Owl carousel 2 : <https://owlcarousel2.github.io/OwlCarousel2/>
 
 * Magnific Popup : <https://dimsemenov.com/plugins/magnific-popup/> 
 
