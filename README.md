@@ -1,7 +1,7 @@
 ### Ressources Javasript FrontEnd
 
 ```
- moving-letter: https://tobiasahlin.com/moving-letters/
+ moving-letter: <https://tobiasahlin.com/moving-letters/>
 ```
 
 ```
