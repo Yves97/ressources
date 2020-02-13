@@ -2,9 +2,11 @@
 
 > ### Javascript Plugins , Library & Css Generators
 
-* Moving-letter: <https://tobiasahlin.com/moving-letters/>
-
 * Open-sources websites for javascript library, framework , plugins & discover front-end code : <https://www.javascripting.com/> , <https://www.jqueryscript.net/>, <https://codepen.io/> , <https://bootsnipp.com>
+
+    #### _Javascript Plugins_
+
+* Moving-letter: <https://tobiasahlin.com/moving-letters/>
 
 * Animation for loaoders : <https://loading.io/> , <https://icons8.com/preloaders/>
 
@@ -28,16 +30,17 @@
 
 * Notifications: Push.js <https://pushjs.org/>, Notify.js <https://alexgibson.github.io/notify.js/>
 
-* Css Scrool Snapping <https://css-tricks.com/practical-css-scroll-snapping/>
-
-* Css matic for generators <https://www.cssmatic.com/>
-
 * Uglify Js for minify Javascript code : <https://www.uglifyjs.net/>
 
 * Free Online API REST  <https://jsonplaceholder.typicode.com/>
 
 * Anothers plugins : Scramble.js, Counter.js , ScrollUp.js, Rollover.js
 
+    #### _CSS Skills & Generators_
+
+* Css Scrool Snapping <https://css-tricks.com/practical-css-scroll-snapping/>
+
+* Css matic for generators <https://www.cssmatic.com/>
 
 > ### Good & Free Images Websites
 
