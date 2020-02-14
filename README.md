@@ -42,6 +42,8 @@
 
 * Css matic for generators <https://www.cssmatic.com/>
 
+* Bennett Feely <https://bennettfeely.com/>
+
 > ### Good & Free Images Websites
 
 * Pexels <https://www.pexels.com/>
