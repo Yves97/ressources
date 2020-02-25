@@ -70,6 +70,8 @@
 
 * UIcookie <https://uicookies.com/>
 
+* UPlabs <https://www.uplabs.com/>
+
 
 > ### Free Color Palettes, Fonts & Icons
 
