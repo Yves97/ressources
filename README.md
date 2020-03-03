@@ -54,7 +54,7 @@
 
 * Undraw for SVG images : <https://undraw.co/>
 
-> ### Free Themes & Templates , Open Sources Projects
+> ### Free Themes , Templates , Open Sources Projects , Books 
 
 * Colorlib <https://colorlib.com/>
 
@@ -73,6 +73,8 @@
 * UPlabs <https://www.uplabs.com/>
 
 * open sources projects <https://awesomeopensource.com/>
+
+* Programmers books <https://www.programmer-books.com/>
 
 
 > ### Free Color Palettes, Fonts & Icons
