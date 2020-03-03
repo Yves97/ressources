@@ -34,7 +34,7 @@
 
 * Free Online API REST  <https://jsonplaceholder.typicode.com/>
 
-* Anothers plugins : Scramble.js, Counter.js , ScrollUp.js, Rollover.js
+* Anothers plugins : Scramble.js, Counter.js , ScrollUp.js, Rollover.js, Glitch js
 
     #### _CSS Skills & Generators_
 
