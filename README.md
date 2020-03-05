@@ -32,9 +32,12 @@
 
 * Uglify Js for minify Javascript code : <https://www.uglifyjs.net/>
 
+* Isotop JS <https://isotope.metafizzy.co/>
+
 * Free Online API REST  <https://jsonplaceholder.typicode.com/>
 
 * Anothers plugins : Scramble.js, Counter.js , ScrollUp.js, Rollover.js, Glitch js
+
 
     #### _CSS Skills & Generators_
 
