@@ -79,6 +79,8 @@
 
 * Programmers books <https://www.programmer-books.com/>
 
+* Jevelin <https://jevelin.shufflehound.com/hello/>
+
 
 > ### Free Color Palettes, Fonts & Icons
 
