@@ -34,7 +34,8 @@
 
 * Isotop JS <https://isotope.metafizzy.co/>
 
-* Preloader Css <https://loading.io/>
+* Preloader Css <https://loading.io/> , <https://icons8.com/preloaders/>
+
 * Free Online API REST  <https://jsonplaceholder.typicode.com/>
 
 * Anothers plugins : Scramble.js, Counter.js , ScrollUp.js, Rollover.js, Glitch js
