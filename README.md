@@ -49,6 +49,8 @@
 
 * Bennett Feely <https://bennettfeely.com/>
 
+* Section separator <https://wweb.dev/resources/css-separator-generator>
+
 > ### Good & Free Images Websites
 
 * Pexels <https://www.pexels.com/>
