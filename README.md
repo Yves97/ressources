@@ -89,6 +89,8 @@
 
 * Jevelin <https://jevelin.shufflehound.com/hello/>
 
+* TOP 10 free & premium website template <https://medium.com/@traversymedia/10-resources-for-free-website-app-themes-77928980c241>
+
 
 > ### Free Color Palettes, Fonts & Icons
 
