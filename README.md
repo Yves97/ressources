@@ -91,8 +91,11 @@
 
 * css author <https://cssauthor.com/bootstrap-admin-templates/>
 
-* TOP 10 free & premium website template <https://medium.com/@traversymedia/10-resources-for-free-website-app-themes-77928980c241>
+* Themelock <https://www.themelock.com/>
 
+* ThemeHunt <https://themehunt.com/>
+
+* themesgrid <https://wpthemesgrid.com/>
 
 > ### Free Color Palettes, Fonts & Icons
 
