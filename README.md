@@ -97,6 +97,8 @@
 
 * themesgrid <https://wpthemesgrid.com/>
 
+* Thewagon <https://themewagon.com/>
+
 * Slider css <https://templateyou.com/free-html-css-sliders/>
 
 > ### Free Color Palettes, Fonts & Icons
