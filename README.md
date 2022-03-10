@@ -1,4 +1,4 @@
-# Ressources FrontEnd & UI/UX Desing
+# Ressources FrontEnd & UI/UX Design
 
 > ### Javascript Plugins , Library & Css Generators
 
