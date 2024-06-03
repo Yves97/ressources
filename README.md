@@ -53,7 +53,7 @@
 
 * CSS grid generator <https://cssgrid-generator.netlify.app/>
 
-> ### Good & Free Images Websites
+> ### Free Images Websites
 
 * Pexels <https://www.pexels.com/>
 
