@@ -1,4 +1,4 @@
-# Ressources FrontEnd & UI/UX Design
+# Ressources For FrontEnd Developers & UI/UX Designers
 
 > ### Javascript Plugins , Library & Css Generators
 
@@ -40,8 +40,7 @@
 
 * Anothers plugins : Scramble.js, Counter.js , ScrollUp.js, Rollover.js, Glitch js
 
-
-    #### _CSS Skills & Generators_
+    #### _CSS Tools_
 
 * Css Scrool Snapping <https://css-tricks.com/practical-css-scroll-snapping/>
 
@@ -53,17 +52,19 @@
 
 * CSS grid generator <https://cssgrid-generator.netlify.app/>
 
-> ### Free Images Websites
+* UIgradient: <https://uigradients.com/>
 
-* Pexels <https://www.pexels.com/>
+> ### Website Illustrations Images
 
-* Pixabay <https://pixabay.com/>
+* Pexels: <https://www.pexels.com/>
 
-* Pinterest <https://www.pinterest.com/>
+* Pixabay: <https://pixabay.com/>
 
-* Undraw for SVG images : <https://undraw.co/> , <https://worldvectorlogo.com/>
+* Pinterest: <https://www.pinterest.com/>
 
-* UIgradient : <https://uigradients.com/>
+* SVG Images: <https://undraw.co/> , <https://worldvectorlogo.com/>
+
+
 
 > ### Free Themes , Templates , Open Sources Projects , Books 
 
@@ -103,10 +104,12 @@
 
 > ### Free Color Palettes, Fonts & Icons
 
-* ColorHunt : <https://colorhunt.co/>
+* ColorHunt: <https://colorhunt.co/>
 
-* Google Fonts : <https://fonts.google.com/>
+* Google Fonts: <https://fonts.google.com/>
 
-* FlatIcon : <https://www.flaticon.com/>
+* FlatIcon: <https://www.flaticon.com/>
 
-* IconMoon : <https://icomoon.io/>
+* IconMoon: <https://icomoon.io/>
+
+* Radix: <https://www.radix-ui.com/colors/custom>
