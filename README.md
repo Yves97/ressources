@@ -39,6 +39,8 @@
 * Free Online API REST  <https://jsonplaceholder.typicode.com/>
 
 * Anothers plugins : Scramble.js, Counter.js , ScrollUp.js, Rollover.js, Glitch js
+  
+* Slider Revolution: <https://www.sliderrevolution.com/>
 
     #### _CSS Tools_
 
@@ -66,7 +68,7 @@
 
 
 
-> ### Free Themes , Templates , Open Sources Projects , Books 
+> ### Free Themes , Templates , Open Sources Projects , Online Books 
 
 * Colorlib <https://colorlib.com/>
 
@@ -95,6 +97,8 @@
 * Themelock <https://www.themelock.com/>
 
 * ThemeHunt <https://themehunt.com/>
+  
+* Mtronic <https://keenthemes.com/metronic/>
 
 * themesgrid <https://wpthemesgrid.com/>
 
